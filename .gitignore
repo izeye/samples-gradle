@@ -1,1 +1,6 @@
 # Created by .gitignore support plugin (hsz.mobi)
+samples-gradle-server/samples-gradle-server.iml
+samples-gradle-common/samples-gradle-common.iml
+samples-gradle-client/samples-gradle-client.iml
+.idea
+samples-gradle.iml
