@@ -2,3 +2,5 @@ rootProject.name = 'samples-gradle'
 
 include 'samples-gradle-common', 'samples-gradle-server', 'samples-gradle-client'
 
+include 'samples-hello-world'
+

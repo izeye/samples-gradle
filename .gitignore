@@ -4,3 +4,4 @@ samples-gradle-common/samples-gradle-common.iml
 samples-gradle-client/samples-gradle-client.iml
 .idea
 samples-gradle.iml
+samples-hello-world/samples-hello-world.iml
